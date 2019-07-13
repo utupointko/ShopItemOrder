@@ -5,8 +5,6 @@ using namespace std;
 
 class ShopItemOrder {
 
-    // Write your code here
-
 private:
     string name;
     double price;
